@@ -1,3 +1,6 @@
 # python_regex_tarefa
-Otavio Lazarotto
-Leonardo Teixeira
+
+# Camila Rodrigues
+# Jean Douglas 
+# Otavio Lazarotto
+# Leonardo Teixeira
